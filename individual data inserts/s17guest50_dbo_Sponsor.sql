@@ -1,0 +1,15 @@
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('VMWare', 'Platinum Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Verizon Digital Media Services', 'Platinum Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Microsoft Corporation (GAP) (GAP Sponsor)', 'Platinum Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Tintri', 'Platinum Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Amazon Web Services, LLC', 'Gold Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Pyramid Analytics (GAP Sponsor)', 'Gold Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Pure Storage', 'Gold Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Profisee', 'Gold Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('NetLib Security', 'Silver Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Melissa Data Corp.', 'Silver Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Red Gate Software', 'Silver Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('SentryOne', 'Silver Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('Hush Hush', 'Bronze Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('COZYROC', 'Bronze Sponsor');
+INSERT INTO s17guest50.dbo.Sponsor (name, tier) VALUES ('SQLDocKit by Acceleratio Ltd.', 'Bronze Sponsor');
