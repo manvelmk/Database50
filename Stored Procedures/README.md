@@ -12,11 +12,16 @@ ___________________
   full name parameter.
 ___________________
 - **selectPresentationsPerSpeaker.sql**
+  - Parameters: Full Name
+  - Usage:  EXEC sp_speakerPresentation 'Andy Leonard'
+  - Description: Selects all presentations that have the supplied first and last lames associated with them.
+  ___________________
+- **sp_speakerPresentation.sql**
   - Parameters: none
   - Usage:  EXECUTE selectPresentationsPerSpeaker
-  - Description: Simply selects (displays) all presentations with the title, difficulty level, event location and full name of speaker
+  - Description: Simply selects (displays) all presentations with the title, difficulty level, event location and full name of speaker.
   ___________________
 - **selectPresentationsPerTrack.sql**
   - Parameters: Track Name
   - Usage:  EXECUTE sp_presentationsPerTrack 'BI Information Delivery'
-  - Description: Displays list of presentations that have thespecified track in Budapest
+  - Description: Displays list of presentations that have thespecified track in Budapest.
