@@ -1,6 +1,6 @@
 # Database50 - Stored Procedures
 Details:
--------------------
+
 ___________________
 - **insertPresentation.sql**
   - Parameters: Full Name, Presentation Title
